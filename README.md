@@ -49,9 +49,13 @@ The chatbot requires Ollama to be running locally on your machine. This is a loc
 
 
 ## Technologies Used
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Brave Search API 
-
-REQUEST TEMP ACCESS AT CORS DEMO SERVER: https://cors-anywhere.herokuapp.com/corsdemo WHEN SETTING UP
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Brave Search API** 
+- **Ollama**: Local AI model server for running Llama 2
+- **Llama 2**: Large Language Model for generating chat responses
+- **Node.js**: Backend server for handling chat requests
+- **Express.js**: Web framework for the chat server
+- **Fetch API**: For making requests between frontend and backend
+- **CSS Animations**: For typing effects and UI interactions
