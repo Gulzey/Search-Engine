@@ -16,7 +16,7 @@ The project includes an AI chatbot powered by Ollama using the Llama 2 model. Th
 - [Node.js](https://nodejs.org/)
 - [Ollama](https://ollama.ai/download)
 
-### Setting up the Chatbot
+### Setting up the Chatbot (MUST BE RUN LOCALLY)
 
 1. Install Ollama from https://ollama.ai/download
 
