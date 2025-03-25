@@ -1,4 +1,4 @@
-# AI Search Engine
+# G3 Search Engine
 
 A modern, dark-themed search engine interface using Brave Search API.
 
@@ -13,8 +13,6 @@ A modern, dark-themed search engine interface using Brave Search API.
 2. Replace the API key in `script.js` with your Brave Search API key
 3. Open `index.html` in your browser
 
-## Live Demo
-Visit the live demo at: [Your GitHub Pages URL will go here]
 
 ## Technologies Used
 - HTML5
@@ -22,4 +20,4 @@ Visit the live demo at: [Your GitHub Pages URL will go here]
 - JavaScript (ES6+)
 - Brave Search API 
 
-REQUEST TEMP ACCESS AT CORS DEMO SERVER: https://cors-anywhere.herokuapp.com/corsdemo
+REQUEST TEMP ACCESS AT CORS DEMO SERVER: https://cors-anywhere.herokuapp.com/corsdemo WHEN SETTING UP
