@@ -8,6 +8,9 @@ A modern, dark-themed search engine interface using Brave Search API.
 - Responsive design
 - Keyboard-friendly (Enter key support)
 
+## Usage
+-  Request temporary access at: https://cors-anywhere.herokuapp.com/corsdemo
+
 ## AI Chatbot Feature
 
 The project includes an AI chatbot powered by Ollama using the Llama 2 model. The chatbot provides an interactive interface for users to ask questions and receive AI-generated responses.
